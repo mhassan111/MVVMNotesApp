@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
     @ExperimentalAnimationApi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        
+
         setContent {
             CleanArchitectureNoteAppTheme {
                 Surface(
@@ -34,6 +34,7 @@ class MainActivity : ComponentActivity() {
                         navController = navController,
                         startDestination = Screen.NotesScreen.route
                     ) {
+
                         composable(route = Screen.NotesScreen.route) {
                             NotesScreen(navController = navController)
                         }
@@ -66,4 +67,5 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
 }
