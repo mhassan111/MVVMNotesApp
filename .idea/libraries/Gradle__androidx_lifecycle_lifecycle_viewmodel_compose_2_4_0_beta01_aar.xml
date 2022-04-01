@@ -1,12 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-beta01@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d45aa02f2d45441cd4d5a5d987dfe5da/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d45aa02f2d45441cd4d5a5d987dfe5da/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d45aa02f2d45441cd4d5a5d987dfe5da/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d55405e405c6bb97267730fe8b2e9f2/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3d55405e405c6bb97267730fe8b2e9f2/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d55405e405c6bb97267730fe8b2e9f2/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1152d26e9630e74e20fe695b008e1196/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1152d26e9630e74e20fe695b008e1196/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1152d26e9630e74e20fe695b008e1196/transformed/jetified-lifecycle-viewmodel-compose-2.4.0-beta01/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
